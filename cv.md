@@ -1,15 +1,19 @@
+
 # **IRINA MYCHKO**
+
 ![girl developer](https://media-exp1.licdn.com/dms/image/C4E03AQHqBCKpV98MAQ/profile-displayphoto-shrink_100_100/0/1610442547984?e=1675296000&v=beta&t=8iPvZtKs2cKmA5b1ThnJOipmj1Zi2wQKM_UTYlQpr94 "Junior Frontend Developer")
 
 #### Junior Frontend Developer
+
 ___
 
 ### **Contact information:**
-* Phone: +555 937 528
-* Discord: [Irina M (@Irina-Riska)]()
-* E-mail: [ira_mychko@yahoo.com]()
+
+* Phone: +995 555 937 528
+* Discord: Irina M (@Irina-Riska)
+* E-mail: [ira_mychko@yahoo.com](mailto:ira_mytchko@yahoo.com)
 * GitHub: [Irina-Riska](https://github.com/Irina-Riska)
-* Telegram: [@Riska1q84]()
+* Telegram: @Riska1q84
 * LinkedIn: [Irina Mytchko](https://www.linkedin.com/in/ira-mytchko/)
 ___
 ### **About Me**
