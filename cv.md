@@ -1,4 +1,5 @@
 # **IRINA MYCHKO**
+![girl developer](https://media-exp1.licdn.com/dms/image/C4E03AQHqBCKpV98MAQ/profile-displayphoto-shrink_100_100/0/1610442547984?e=1675296000&v=beta&t=8iPvZtKs2cKmA5b1ThnJOipmj1Zi2wQKM_UTYlQpr94 "Junior Frontend Developer")
 
 #### Junior Frontend Developer
 ___
@@ -22,3 +23,15 @@ ___
  * VS Code
  * Figma
 ___
+### **Code Example:**
+
+___
+### **Experience:**
+Hackathon for Twilio Inc., March 12-13, 2021
+___
+### **Education:**
+Wild Code School
+* Front-end Developer course
+___
+### **Languages:**
+* English -Upper Intermediate
