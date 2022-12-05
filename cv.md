@@ -62,4 +62,4 @@ ___
 
 ## **Languages:**
 
-* English -Upper Intermediate
+* English - Upper Intermediate
