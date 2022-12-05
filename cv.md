@@ -42,6 +42,9 @@ ___
 
 ## **Code Example:**
 
+`function even_or_odd(number) {
+  return number % 2 ? "Odd" : "Even"
+}`
 ___
 
 ## **Experience:**
